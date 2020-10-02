@@ -1,0 +1,36 @@
+html {
+    background-color: #fff;
+    padding-top: 20px;
+    color: #040;
+}
+
+body {
+    background-color: #dff;
+    width: 60%;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 3px 3px 2px #888;
+    padding-top: 5px;
+}
+
+.kulso {
+    margin: 25px;
+}
+
+h1 {
+    font-family: 'Monotype Corsiva';
+}
+
+.cim {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border: 1px solid #333;
+    outline: 4px outset #777;
+    outline-offset: 3px;
+    background-color: #adffce;
+}
+
+.cim p {
+    font-size: 3em;
+}
